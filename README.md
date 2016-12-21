@@ -1,3 +1,3 @@
 # hello-world
 tutorial repository
-heeeelloooo!
+heeeelloo!
